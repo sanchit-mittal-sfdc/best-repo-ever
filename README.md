@@ -1,2 +1,2 @@
 # best-repo-ever
-change1
+change1to show conflict
